@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cmake -S \\. -B build$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
